@@ -5,5 +5,7 @@ Hello, I'm Patrick and I study computer engineering!
 Zaid Alhilo - I'm a Computer Science Student class of 22
 
 Add a place you want to visit!
+
 Patrick - Spain
 Jesse - Australia
+Zaid - Germany
